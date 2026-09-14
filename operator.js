@@ -17,3 +17,9 @@ console.log("Sum of a and b is: ${a + b}");
 console.log('Sum of a and b is: ${a + b}');
 // backtick
 console.log(`Sum of a and b is: ${a + b}`);
+
+
+
+
+
+
